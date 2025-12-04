@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(14, 14, 11);
+  color: white;
+  align-items: center;
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+
+.box {
+  border: 5px solid;
+  border-color: white;
+  width: fit-content;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  min-width: 25%;
+  max-width: 69%;
+  margin: 0 auto;
+}
